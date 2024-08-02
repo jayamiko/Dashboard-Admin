@@ -1,0 +1,6 @@
+export const STATE = {
+  LOGIN: "LOGIN",
+  LOGOUT: "LOGOUT",
+  AUTH_SUCCESS: "AUTH_SUCCESS",
+  AUTH_ERROR: "AUTH_ERROR",
+};
